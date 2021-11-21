@@ -1,4 +1,4 @@
-# Auto 3BM Sculpting
+# Auto 3BM Sculpting (Blender Addon)
 
 ## This addon automatically enables "Emulate 3 Button Mouse" when entering sculpt mode
 
